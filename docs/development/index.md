@@ -28,3 +28,5 @@ NetBox components are arranged into functional subsections called _apps_ (a carr
 * `tenancy`: Tenants (such as customers) to which NetBox objects may be assigned
 * `utilities`: Resources which are not user-facing (extendable classes, etc.)
 * `virtualization`: Virtual machines and clusters
+
+{!docs/development/test.md!}
